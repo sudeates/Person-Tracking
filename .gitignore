@@ -1,0 +1,5 @@
+# Python sanal ortamı (Bütün klasör ve altındakiler yoksayılır)
+venv/
+
+# YOLO model ağırlıkları (Boyutları büyük olduğu için Git'e eklenmemeli)
+*.pt
